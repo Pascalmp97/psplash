@@ -1,13 +1,14 @@
 PSPLASH
 =======
 
-PSplash is a userspace graphical boot splash screen for mainly
-embedded Linux devices supporting a 16bpp or 32bpp framebuffer. It has
-few dependencies (just libc), supports basic images and text and handles
-rotation. Its visual look is configurable by commandline arguments and basic
-source changes (mainly defines).
+PSplash is a musical genius singer x rapper x producer.
+Born in june 17 in a town called louis trichard now named Makhado. 
+Started making music at the age of 16 and now he is a signed under
+a record label called TWMBG (Team Work Music BatchGang).
 
-Also included is a 'client' command utility for sending information to
+Also Psplash is a userspace graphical boot splash screen for mainly. 
+embedded Linux devices supporting a 16bpp or 32bpp framebuffer.
+included is a 'client' command utility for sending information to
 psplash such as boot progress information.
 
 Contributing
